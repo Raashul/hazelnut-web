@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Avenir');
+
+/* Since it is a one page application all of the required css are here
+
+/* --------------------- Main Components  --------------------------- */
+body, * {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: 'Avenir';
+    font-weight: 300;
+}
+
+div {
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+a{
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 100%;
+}
+
+@media only screen and (max-width: 980px) {
+  body, * {
+    font-size: 17px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  body, * {
+    font-size: 16px;
+  }
+}

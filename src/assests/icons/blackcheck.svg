@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg14"
+   version="1.1"
+   viewBox="0 0 24.414722 18.520201"
+   height="18.520201"
+   width="24.414722">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <!-- Generator: sketchtool 57.1 (101010) - https://sketch.com -->
+  <title
+     id="title2">D08BAF1A-268A-4292-B2DA-1ECED24D012F</title>
+  <desc
+     id="desc4">Created with sketchtool.</desc>
+  <g
+     transform="translate(-0.59624966,0.01010025)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+     id="Dashboard">
+    <g
+       style="stroke:#7bb23c;stroke-width:2"
+       transform="translate(-1140,-382)"
+       id="Waitlist-Dashboard">
+      <g
+         transform="translate(770,359)"
+         id="Group-10">
+        <g
+           id="Group-9">
+          <g
+             transform="translate(371.50087,24)"
+             id="Group">
+            <g
+               id="Group-6">
+              <path
+                 id="Path-2"
+                 d="M 6,16.5 22.5,0" />
+              <path
+                 id="Path-3"
+                 d="M 6,16.5 0.10547891,10.605479" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
